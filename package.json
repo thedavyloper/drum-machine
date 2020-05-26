@@ -14,7 +14,7 @@
     "react": "^16.4.1",
     "react-alert": "^4.0.4",
     "react-debounce-input": "^3.2.0",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.2",
     "react-scripts": "^1.1.4",
     "react-transition-group": "^2.3.1"
   },
