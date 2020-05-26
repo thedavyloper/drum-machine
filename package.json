@@ -1,0 +1,30 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.5.1",
+    "gh-pages": "^2.2.0",
+    "history": "^1.17.0",
+    "howler": "^2.0.14",
+    "jquery": "^1.9.1",
+    "mathjs": "^5.0.2",
+    "npm": "^6.2.0",
+    "popper.js": "^1.14.3",
+    "react": "^16.4.1",
+    "react-alert": "^4.0.4",
+    "react-debounce-input": "^3.2.0",
+    "react-dom": "^16.4.1",
+    "react-scripts": "^1.1.4",
+    "react-transition-group": "^2.3.1"
+  },
+  "homepage": "https://thedavyloper.github.io/drum-machine",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {}
+}
